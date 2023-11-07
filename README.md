@@ -1,6 +1,6 @@
 - 👋 Hello, I am Tejas. Thank you for visiting my Github Repo.
 - 👀 I’m interested in Machine Learning, AI and Full Stack Development.
-- 🌱 I’m currently learning Full Stack Software Engineering, Explainable AI and Machine learning.
+- 🌱 I’m currently learning C++,Data Structures and Algorithms, MLOps, Explainable AI and Machine learning.
 - 💞️ I’m looking to collaborate on NLP, Machine Learning and other software projects.
 
 <!---
